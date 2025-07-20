@@ -30,5 +30,3 @@ Bu proje, yalnızca bir JavaScript dosyası ile çalışan, dinamik olarak HTML 
 ## Dosya Yapısı
 
 - `script.js` — Tüm kodları içerir (HTML, CSS ve JS)
-
-## Lisans
